@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\EventController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
@@ -27,3 +28,6 @@ Route::get('fr/contact', [App\Http\Controllers\RoutefrController::class, 'contac
 Route::get('fr/apropos', [App\Http\Controllers\RoutefrController::class, 'apropos'])->name('frapropos');
 Route::get('fr/galleries', [App\Http\Controllers\RoutefrController::class, 'galleries'])->name('frgalleries');
 Route::get('fr/acceuil', [App\Http\Controllers\RoutefrController::class, 'acceuil'])->name('fracceuils');
+
+
+Route::get('/events', [EventController::class, 'index']);

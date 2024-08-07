@@ -12,13 +12,15 @@
     <script src='https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.js'></script>
     <style>
         #calendar {
-            max-width: 900px;
-            margin: 0 auto;
+            width: 500px;
+            margin-bottom: 25px;
+            height: auto;
         }
     </style>
-    {{-- fin pour calendrier --}}
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+
+    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
     <script src="{{ asset('js/app.js') }}" defer></script>
+    {{-- fin pour calendrier --}}
 
     <!-- Favicons -->
     <link href="{{ asset('assets/img/favicon.jpg') }}" rel="icon">

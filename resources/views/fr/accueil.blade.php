@@ -309,8 +309,16 @@
         </div>
     </div>
     <!-- Service End -->
+    <div class="container-fluid service py-5">
+        <div class="container py-5">
+            <div class="row g-4 justify-content-center">
+                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
 
-    <div id="calendar"></div>
+                    <div id="calendar"> </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
