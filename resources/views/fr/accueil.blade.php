@@ -156,7 +156,7 @@
                 <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="{{ asset('assets/img/2017/IMG_20161105_144107.jpg') }}"
+                            <img src="{{ asset('assets/img/2017/IMG_20161105_144107') }}"
                                 class="img-fluid rounded-top w-100" alt="">
                             <div class="service-icon p-3">
                                 2017
@@ -175,10 +175,10 @@
                 <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="{{ asset('assets/img/2015/IMG-20151227-WA0132.jpg') }}"
+                            <img src="{{ asset('assets/img/2022/1universite222.jpg') }}"
                                 class="img-fluid rounded-top w-100" alt="">
                             <div class="service-icon p-3">
-                                2015
+                                2022
                             </div>
                         </div>
                         <div class="service-content p-2">
@@ -194,10 +194,29 @@
                 <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="{{ asset('assets/img/2015/IMG-20151227-WA0132.jpg') }}"
+                            <img src="{{ asset('assets/img/2023/IMG-20230122-WA0099.jpg') }}"
                                 class="img-fluid rounded-top w-100" alt="">
                             <div class="service-icon p-3">
-                                2015
+                                2023
+                            </div>
+                        </div>
+                        <div class="service-content p-2">
+                            <div class="service-content-inner">
+                                <center>
+                                    <a class="btn btn-success rounded-pill py-2 px-4" href="#">Voir plus</a>
+                                </center>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img src="{{ asset('assets/img/2024/موزة.jpg') }}" class="img-fluid rounded-top w-100"
+                                alt="">
+                            <div class="service-icon p-3">
+                                2024
                             </div>
                         </div>
                         <div class="service-content p-2">
