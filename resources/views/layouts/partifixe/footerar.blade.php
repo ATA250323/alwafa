@@ -121,7 +121,7 @@
                                          </h3>
                                          <!-- <img src="img/logo.png" alt="Logo"> -->
                                      </a>
-                                     <p class="text-white mb-4">جمعية الوفاء لخدمة المجتجع</p>
+                                     <p class="text-white mb-4">جمعية الوفاء لخدمة المجتمع</p>
                                      <div class="footer-btn d-flex">
                                          <a class="btn btn-md-square rounded-circle me-3" href="#"><i
                                                  class="fab fa-facebook-f"></i></a>
