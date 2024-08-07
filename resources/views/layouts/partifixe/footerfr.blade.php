@@ -106,10 +106,12 @@
                                  <h4 class="text-white mb-4">Enredistrée sous le </h4>
                                  <p class="text-white mb-3">2014 le N°6/064/P-SG-STCCD-DCDI-ASS du 11 Décembre 2014</p>
                                  <div class="position-relative rounded-pill mb-4">
-                                     <input class="form-control rounded-pill w-100 py-3 ps-4 pe-5" type="text"
-                                         placeholder="Enter your email">
-                                     <button type="button"
-                                         class="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 mt-2 me-2">Abonnez-vous</button>
+                                     <form action=""> <input
+                                             class="form-control rounded-pill w-100 py-3 ps-4 pe-5" type="text"
+                                             placeholder="Entrez votre email">
+                                         <button type="button"
+                                             class="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 mt-2 me-2">Abonnez-vous</button>
+                                     </form>
                                  </div>
                                  <div class="d-flex flex-shrink-0">
                                      <div class="footer-btn">
