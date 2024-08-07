@@ -8,16 +8,19 @@
                          <div class="col-md-6 col-lg-6 col-xl-4">
                              <center>
                                  <div class="footer-item">
-                                     <h4 class="text-white mb-4">رقم التسجيل</h4>
-                                     <p class="text-white mb-3">2014 le N°6/064/P-SG-STCCD-DCDI-ASS du 11 Décembre 2014
+                                     <h4 class="text-white mb-2">رقم التسجيل</h4>
+                                     <p class="text-white mb-1">2014 le N°6/064/P-SG-STCCD-DCDI-ASS du 11 Décembre 2014
                                      </p>
-                                     <div class="position-relative rounded-pill mb-4">
-                                         <input class="form-control rounded-pill w-100 py-3 ps-4 pe-5" type="text"
-                                             placeholder="أدخل بريدك الإلكتروني">
-                                         <button type="button"
-                                             class="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 mt-2 me-2">سجل</button>
+                                     <p>ص ب : 178 جوغو - دونغا</p>
+                                     <div class="position-relative rounded-pill mb-2">
+                                         <form action=""> <input
+                                                 class="form-control rounded-pill w-100 py-3 ps-4 pe-5" type="text"
+                                                 placeholder="أدخل بريدك الإلكتروني">
+                                             <button type="button"
+                                                 class="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 mt-2 me-2">سجل</button>
+                                         </form>
                                      </div>
-                                     <div class="d-flex flex-shrink-0">
+                                     {{-- <div class="d-flex flex-shrink-0">
                                          <div class="footer-btn">
                                              <a href="+229 97 95 90 43"
                                                  class="btn btn-lg-square rounded-circle position-relative wow tada"
@@ -33,7 +36,7 @@
                                              <a href="+229 97 95 90 43"><span class="text-white">+229 97 95 90
                                                      43</span></a>
                                          </div>
-                                     </div>
+                                     </div> --}}
                                  </div>
                              </center>
                          </div>

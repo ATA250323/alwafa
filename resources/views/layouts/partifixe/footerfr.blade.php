@@ -6,114 +6,121 @@
                  <div class="mb-5">
                      <div class="row g-4">
                          <div class="col-md-6 col-lg-6 col-xl-4">
-                             <div class="footer-item">
-                                 <a href="index.html" class="p-0">
-                                     <h3 class="text-white"><img src="{{ asset('assets/img/logo.jpg') }}" width="50"
-                                             height="50" alt="">
-                                         Al-Wafa </h3>
-                                     <!-- <img src="img/logo.png" alt="Logo"> -->
-                                 </a>
-                                 <p class="text-white mb-4">ASSOCIATION POUR LA CONTRIBUTION ET LE SOUTIEN AUX COUCHES
-                                     DEFAVORISES (ACSCD)</p>
-                                 <div class="footer-btn d-flex">
-                                     <a class="btn btn-md-square rounded-circle me-3" href="#"><i
-                                             class="fab fa-facebook-f"></i></a>
-                                     <a class="btn btn-md-square rounded-circle me-3" href="#"><i
-                                             class="fab fa-twitter"></i></a>
-                                     <a class="btn btn-md-square rounded-circle me-3" href="#"><i
-                                             class="fab fa-instagram"></i></a>
-                                     <a class="btn btn-md-square rounded-circle me-0" href="#"><i
-                                             class="fab fa-linkedin-in"></i></a>
+                             <center>
+                                 <div class="footer-item">
+                                     <a href="index.html" class="p-0">
+                                         <h3 class="text-white"><img src="{{ asset('assets/img/logo.jpg') }}"
+                                                 width="50" height="50" alt="">
+                                             Al-Wafa </h3>
+                                         <!-- <img src="img/logo.png" alt="Logo"> -->
+                                     </a>
+                                     <p class="text-white mb-4">ASSOCIATION POUR LA CONTRIBUTION ET LE SOUTIEN AUX
+                                         COUCHES
+                                         DEFAVORISES (ACSCD)</p>
+                                     <div class="footer-btn d-flex">
+                                         <a class="btn btn-md-square rounded-circle me-3" href="#"><i
+                                                 class="fab fa-facebook-f"></i></a>
+                                         <a class="btn btn-md-square rounded-circle me-3" href="#"><i
+                                                 class="fab fa-twitter"></i></a>
+                                         <a class="btn btn-md-square rounded-circle me-3" href="#"><i
+                                                 class="fab fa-instagram"></i></a>
+                                         <a class="btn btn-md-square rounded-circle me-0" href="#"><i
+                                                 class="fab fa-linkedin-in"></i></a>
+                                     </div>
                                  </div>
-                             </div>
+                             </center>
                          </div>
 
                          <div class="col-md-6 col-lg-6 col-xl-4">
-                             <div class="footer-item">
-                                 <h4 class="mb-4 text-white">Photos</h4>
-                                 <div class="row g-3">
-                                     <div class="col-4">
-                                         <div class="footer-instagram rounded">
-                                             <img src="{{ asset('assets/img/2015/IMG-20151227-WA0132.jpg') }}"
-                                                 class="img-fluid w-100" alt="">
-                                             <div class="footer-search-icon">
-                                                 <a href="{{ asset('assets/img/2015/IMG-20151227-WA0132.jpg') }}"
-                                                     data-lightbox="footerInstagram-1" class="my-auto"><i
-                                                         class="fas fa-link text-white"></i></a>
+                             <center>
+                                 <div class="footer-item">
+                                     <h4 class="mb-4 text-white">Photos</h4>
+                                     <div class="row g-3">
+                                         <div class="col-4">
+                                             <div class="footer-instagram rounded">
+                                                 <img src="{{ asset('assets/img/2015/IMG-20151227-WA0132.jpg') }}"
+                                                     class="img-fluid w-100" alt="">
+                                                 <div class="footer-search-icon">
+                                                     <a href="{{ asset('assets/img/2015/IMG-20151227-WA0132.jpg') }}"
+                                                         data-lightbox="footerInstagram-1" class="my-auto"><i
+                                                             class="fas fa-link text-white"></i></a>
+                                                 </div>
                                              </div>
                                          </div>
-                                     </div>
-                                     <div class="col-4">
-                                         <div class="footer-instagram rounded">
-                                             <img src="{{ asset('assets/img/2016/IMG_20160610_190753.jpg') }}"
-                                                 class="img-fluid w-100" alt="">
-                                             <div class="footer-search-icon">
-                                                 <a href="{{ asset('assets/img/2016/IMG_20160610_190753.jpg') }}"
-                                                     data-lightbox="footerInstagram-2" class="my-auto"><i
-                                                         class="fas fa-link text-white"></i></a>
+                                         <div class="col-4">
+                                             <div class="footer-instagram rounded">
+                                                 <img src="{{ asset('assets/img/2016/IMG_20160610_190753.jpg') }}"
+                                                     class="img-fluid w-100" alt="">
+                                                 <div class="footer-search-icon">
+                                                     <a href="{{ asset('assets/img/2016/IMG_20160610_190753.jpg') }}"
+                                                         data-lightbox="footerInstagram-2" class="my-auto"><i
+                                                             class="fas fa-link text-white"></i></a>
+                                                 </div>
                                              </div>
                                          </div>
-                                     </div>
-                                     <div class="col-4">
-                                         <div class="footer-instagram rounded">
-                                             <img src="{{ asset('assets/img/2016/IMG_20160702_135635.jpg') }}"
-                                                 class="img-fluid w-100" alt="">
-                                             <div class="footer-search-icon">
-                                                 <a href="{{ asset('assets/img/2016/IMG_20160702_135635.jpg') }}"
-                                                     data-lightbox="footerInstagram-3" class="my-auto"><i
-                                                         class="fas fa-link text-white"></i></a>
+                                         <div class="col-4">
+                                             <div class="footer-instagram rounded">
+                                                 <img src="{{ asset('assets/img/2016/IMG_20160702_135635.jpg') }}"
+                                                     class="img-fluid w-100" alt="">
+                                                 <div class="footer-search-icon">
+                                                     <a href="{{ asset('assets/img/2016/IMG_20160702_135635.jpg') }}"
+                                                         data-lightbox="footerInstagram-3" class="my-auto"><i
+                                                             class="fas fa-link text-white"></i></a>
+                                                 </div>
                                              </div>
                                          </div>
-                                     </div>
-                                     <div class="col-4">
-                                         <div class="footer-instagram rounded">
-                                             <img src="{{ asset('assets/img/2022/1universite322.jpg') }}"
-                                                 class="img-fluid w-100" alt="">
-                                             <div class="footer-search-icon">
-                                                 <a href="{{ asset('assets/img/2022/1universite322.jpg') }}"
-                                                     data-lightbox="footerInstagram-4" class="my-auto"><i
-                                                         class="fas fa-link text-white"></i></a>
+                                         <div class="col-4">
+                                             <div class="footer-instagram rounded">
+                                                 <img src="{{ asset('assets/img/2022/1universite322.jpg') }}"
+                                                     class="img-fluid w-100" alt="">
+                                                 <div class="footer-search-icon">
+                                                     <a href="{{ asset('assets/img/2022/1universite322.jpg') }}"
+                                                         data-lightbox="footerInstagram-4" class="my-auto"><i
+                                                             class="fas fa-link text-white"></i></a>
+                                                 </div>
                                              </div>
                                          </div>
-                                     </div>
-                                     <div class="col-4">
-                                         <div class="footer-instagram rounded">
-                                             <img src="{{ asset('assets/img/2023/٢٠٢٣١٢١٥_١٠١٦١٥.jpg') }}"
-                                                 class="img-fluid w-100" alt="">
-                                             <div class="footer-search-icon">
-                                                 <a href="{{ asset('assets/img/2023/٢٠٢٣١٢١٥_١٠١٦١٥.jpg') }}"
-                                                     data-lightbox="footerInstagram-5" class="my-auto"><i
-                                                         class="fas fa-link text-white"></i></a>
+                                         <div class="col-4">
+                                             <div class="footer-instagram rounded">
+                                                 <img src="{{ asset('assets/img/2023/٢٠٢٣١٢١٥_١٠١٦١٥.jpg') }}"
+                                                     class="img-fluid w-100" alt="">
+                                                 <div class="footer-search-icon">
+                                                     <a href="{{ asset('assets/img/2023/٢٠٢٣١٢١٥_١٠١٦١٥.jpg') }}"
+                                                         data-lightbox="footerInstagram-5" class="my-auto"><i
+                                                             class="fas fa-link text-white"></i></a>
+                                                 </div>
                                              </div>
                                          </div>
-                                     </div>
-                                     <div class="col-4">
-                                         <div class="footer-instagram rounded">
-                                             <img src="{{ asset('assets/img/2024/موزة.jpg') }}" class="img-fluid w-100"
-                                                 alt="">
-                                             <div class="footer-search-icon">
-                                                 <a href="{{ asset('assets/img/2024/موزة.jpg') }}"
-                                                     data-lightbox="footerInstagram-6" class="my-auto"><i
-                                                         class="fas fa-link text-white"></i></a>
+                                         <div class="col-4">
+                                             <div class="footer-instagram rounded">
+                                                 <img src="{{ asset('assets/img/2024/موزة.jpg') }}"
+                                                     class="img-fluid w-100" alt="">
+                                                 <div class="footer-search-icon">
+                                                     <a href="{{ asset('assets/img/2024/موزة.jpg') }}"
+                                                         data-lightbox="footerInstagram-6" class="my-auto"><i
+                                                             class="fas fa-link text-white"></i></a>
+                                                 </div>
                                              </div>
                                          </div>
                                      </div>
                                  </div>
-                             </div>
+                             </center>
                          </div>
                          <div class="col-md-6 col-lg-6 col-xl-4">
-                             <div class="footer-item">
-                                 <h4 class="text-white mb-4">Enredistrée sous le </h4>
-                                 <p class="text-white mb-3">2014 le N°6/064/P-SG-STCCD-DCDI-ASS du 11 Décembre 2014</p>
-                                 <div class="position-relative rounded-pill mb-4">
-                                     <form action=""> <input
-                                             class="form-control rounded-pill w-100 py-3 ps-4 pe-5" type="text"
-                                             placeholder="Entrez votre email">
-                                         <button type="button"
-                                             class="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 mt-2 me-2">Abonnez-vous</button>
-                                     </form>
-                                 </div>
-                                 <div class="d-flex flex-shrink-0">
+                             <center>
+                                 <div class="footer-item">
+                                     <h4 class="text-white mb-4">Enredistrée sous le </h4>
+                                     <p class="text-white mb-3">2014 le N°6/064/P-SG-STCCD-DCDI-ASS du 11 Décembre 2014
+                                     </p>
+                                     <div class="position-relative rounded-pill mb-4">
+                                         <form action=""> <input
+                                                 class="form-control rounded-pill w-100 py-3 ps-4 pe-5" type="text"
+                                                 placeholder="Entrez votre email">
+                                             <button type="button"
+                                                 class="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 mt-2 me-2">Abonnez-vous</button>
+                                         </form>
+                                     </div>
+                                     {{-- <div class="d-flex flex-shrink-0">
                                      <div class="footer-btn">
                                          <a href="+229 97 95 90 43"
                                              class="btn btn-lg-square rounded-circle position-relative wow tada"
@@ -129,8 +136,9 @@
                                          <a href="+229 97 95 90 43"><span class="text-white">+229 97 95 90
                                                  43</span></a>
                                      </div>
+                                 </div> --}}
                                  </div>
-                             </div>
+                             </center>
                          </div>
                      </div>
                  </div>
