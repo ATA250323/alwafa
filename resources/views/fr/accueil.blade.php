@@ -124,17 +124,49 @@
                                 2015
                             </div>
                         </div>
+                        <div class="service-content p-2">
+                            <div class="service-content-inner">
+                                <center>
+                                    <a class="btn btn-success rounded-pill py-2 px-4" href="#">Voir plus</a>
+                                </center>
+                            </div>
+                        </div>
                     </div>
                 </div>
-
 
                 <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="{{ asset('assets/img/2015/IMG-20151227-WA0132.jpg') }}"
+                            <img src="{{ asset('assets/img/2016/IMG_20160610_190753.jpg') }}"
                                 class="img-fluid rounded-top w-100" alt="">
                             <div class="service-icon p-3">
-                                2015
+                                2016
+                            </div>
+                        </div>
+                        <div class="service-content p-2">
+                            <div class="service-content-inner">
+                                <center>
+                                    <a class="btn btn-success rounded-pill py-2 px-4" href="#">Voir plus</a>
+                                </center>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img src="{{ asset('assets/img/2017/IMG_20161105_144107.jpg') }}"
+                                class="img-fluid rounded-top w-100" alt="">
+                            <div class="service-icon p-3">
+                                2017
+                            </div>
+                        </div>
+                        <div class="service-content p-2">
+                            <div class="service-content-inner">
+                                <center>
+                                    <a class="btn btn-success rounded-pill py-2 px-4" href="#">Voir plus</a>
+                                </center>
                             </div>
                         </div>
                     </div>
@@ -149,6 +181,13 @@
                                 2015
                             </div>
                         </div>
+                        <div class="service-content p-2">
+                            <div class="service-content-inner">
+                                <center>
+                                    <a class="btn btn-success rounded-pill py-2 px-4" href="#">Voir plus</a>
+                                </center>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
@@ -161,8 +200,16 @@
                                 2015
                             </div>
                         </div>
+                        <div class="service-content p-2">
+                            <div class="service-content-inner">
+                                <center>
+                                    <a class="btn btn-success rounded-pill py-2 px-4" href="#">Voir plus</a>
+                                </center>
+                            </div>
+                        </div>
                     </div>
                 </div>
+
             </div>
         </div>
     </div>
