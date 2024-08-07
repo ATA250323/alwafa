@@ -175,6 +175,63 @@
                 <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="service-item">
                         <div class="service-img">
+                            <img src="{{ asset('assets/img/2018/IMG_20160608_112535.jpg') }}"
+                                class="img-fluid rounded-top w-100" alt="">
+                            <div class="service-icon p-3">
+                                2018
+                            </div>
+                        </div>
+                        <div class="service-content p-2">
+                            <div class="service-content-inner">
+                                <center>
+                                    <a class="btn btn-success rounded-pill py-2 px-4" href="#">Voir plus</a>
+                                </center>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img src="{{ asset('assets/img/2018/IMG_20160608_112535.jpg') }}"
+                                class="img-fluid rounded-top w-100" alt="">
+                            <div class="service-icon p-3">
+                                2019
+                            </div>
+                        </div>
+                        <div class="service-content p-2">
+                            <div class="service-content-inner">
+                                <center>
+                                    <a class="btn btn-success rounded-pill py-2 px-4" href="#">Voir plus</a>
+                                </center>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img src="{{ asset('assets/img/2020/مريم المسلماني .jpg') }}"
+                                class="img-fluid rounded-top w-100" alt="">
+                            <div class="service-icon p-3">
+                                2020
+                            </div>
+                        </div>
+                        <div class="service-content p-2">
+                            <div class="service-content-inner">
+                                <center>
+                                    <a class="btn btn-success rounded-pill py-2 px-4" href="#">Voir plus</a>
+                                </center>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="service-item">
+                        <div class="service-img">
                             <img src="{{ asset('assets/img/2022/1universite222.jpg') }}"
                                 class="img-fluid rounded-top w-100" alt="">
                             <div class="service-icon p-3">
