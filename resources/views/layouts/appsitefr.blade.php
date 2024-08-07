@@ -7,6 +7,19 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
+    {{-- debut pour calendrier --}}
+    <link href='https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.css' rel='stylesheet' />
+    <script src='https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.js'></script>
+    <style>
+        #calendar {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+    </style>
+    {{-- fin pour calendrier --}}
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <script src="{{ asset('js/app.js') }}" defer></script>
+
     <!-- Favicons -->
     <link href="{{ asset('assets/img/favicon.jpg') }}" rel="icon">
     <link href="{{ asset('assets/img/apple-touch-icon.jpg') }}" rel="apple-touch-icon">
