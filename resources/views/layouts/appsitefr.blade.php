@@ -48,6 +48,7 @@
 
     <!-- Template Stylesheet -->
     <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/css/calendriercss.css') }}" rel="stylesheet">
 </head>
 
 <body>
@@ -92,6 +93,7 @@
 
     <!-- Template Javascript -->
     <script src="{{ asset('assets/js/main.js') }}"></script>
+    <script src="{{ asset('assets/js/calendrier.js') }}"></script>
 </body>
 
 </html>
